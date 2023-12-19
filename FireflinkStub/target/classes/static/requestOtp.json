@@ -1,0 +1,16 @@
+{
+  "code": 100,
+  "result": {
+    "data": {
+      "client_id": "aadhaar_v2_BuUpzlrgdiNaGhCsPujk",
+      "otp_sent": true,
+      "if_number": true,
+      "valid_aadhaar": true,
+      "status": "generate_otp_success"
+    },
+    "status_code": 200,
+    "message_code": "success",
+    "message": "OTP Sent.",
+    "success": true
+  }
+}

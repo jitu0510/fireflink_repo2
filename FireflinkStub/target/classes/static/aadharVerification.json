@@ -1,0 +1,15 @@
+{
+  "code": 100,
+  "result": {
+    "url": {},
+    "id": "63cbc8a8c3527f0019a5",
+    "result": {
+      "verified": "true",
+      "ageBand": "20-30",
+      "state": "Delhi",
+      "mobileNumber": "xxxxxxx132",
+      "gender": "MALE"
+    },
+    "instance": {}
+  }
+}

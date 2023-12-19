@@ -1,0 +1,44 @@
+{
+  "code": 100,
+  "result": {
+    "data": {
+      "client_id": "aadhaar_v2_BuUpzlrgdiNaGhCsPujk",
+      "full_name": "XXXXXXXX",
+      "aadhaar_number": "80700XXXXXXXX",
+      "dob": "XXXXXXXX-12-31",
+      "gender": "M",
+      "address": {
+        "country": "India",
+        "dist": "XXXXXXXXDelhi",
+        "state": "XXXXXXXX",
+        "po": "XXXXXXXX",
+        "loc": "XXXXXXXX",
+        "vtc": "XXXXXXXX",
+        "subdist": "XXXXXXXX Town",
+        "street": "XXXXXXXX",
+        "house": "XXXXXXXX",
+        "landmark": ""
+      },
+      "face_status": false,
+      "face_score": -1,
+      "zip": "110009",
+      "profile_image": "QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkdnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/",
+      "has_image": true,
+      "email_hash": "",
+      "mobile_hash": "d7b319a33446a5XXXXXXXX75796c2e59",
+      "raw_xml": "https://aadhaar-kyc-docs.s3.amazonaws.com/emptra/aadhaar_xml/526720230123163901755/526720230123163901755-2023-01-23-110901900158.xml?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credentia",
+      "zip_data": "https://aadhaar-kyc-docs.s3.amazonaws.com/emptra/aadhaar_xml/526720230123163901755/526720230123163901755-2023-01-23-110901799181.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAY5K3QRM5PAM3NMHW%2F2eaa5f3ab5bb96",
+      "care_of": "C/O XXXXXXXX",
+      "share_code": "3470",
+      "mobile_verified": false,
+      "reference_id": "52672XXXXXXXX755",
+      "aadhaar_pdf": null,
+      "status": "success_aadhaar",
+      "uniqueness_id": "9e9XXXXXXXX5a6e2c7a9a535c60442ad066909aebe"
+    },
+    "status_code": 200,
+    "success": true,
+    "message": null,
+    "message_code": "success"
+  }
+}

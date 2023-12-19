@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "result": {
+    "data": {
+      "age_range": "30-40",
+      "aadhaar_number": "280119066315",
+      "state": "Haryana",
+      "gender": "M",
+      "last_digits": "779",
+      "is_mobile": true,
+      "remarks": "success",
+      "less_info": false
+    },
+    "status_code": 200,
+    "success": true,
+    "message": null,
+    "message_code": "success"
+  }
+}
