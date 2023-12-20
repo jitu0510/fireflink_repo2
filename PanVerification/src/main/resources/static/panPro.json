@@ -1,0 +1,20 @@
+{
+  "code": 200,
+  "message": "Data Found Successfully.",
+  "result": {
+    "data": {
+      "pan_number": "DHEPS7028N",
+      "father_name": "VIJAY SETIA",
+      "full_name": "AJAY SETIA",
+      "less_info": true,
+      "additional_check": [],
+      "dob_verified": false,
+      "dob_check": false,
+      "category": "person"
+    },
+    "status_code": 200,
+    "success": true,
+    "message": null,
+    "message_code": "success"
+  }
+}

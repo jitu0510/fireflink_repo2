@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "result": {
+    "PAN": "xxxxxx842C",
+    "FIRST_NAME": "NARESH",
+    "MIDDLE_NAME": "",
+    "LAST_NAME": "AHIRWAR",
+    "AADHAR_NUM": "XXXXXXXX6241",
+    "AADHAR_LINKED": true,
+    "DOB_VERIFIED": false,
+    "DOB_CHECK": false,
+    "EMAIL": "GAUTAMNARESH96@GMAIL.COM",
+    "DOB": "1996-06-05",
+    "GENDER": "M",
+    "IDENTITY_TYPE": "Individual",
+    "MOBILE_NO": "9540468437",
+    "ADDRESS_1": "HOUSE NO-48 RAJNAGAR",
+    "ADDRESS_2": " NAYAK MOHALLA",
+    "ADDRESS_3": "CHHATARPUR",
+    "PINCODE": "471625",
+    "CITY": "CHHATARPUR",
+    "STATE": "MADHYA PRADESH",
+    "COUNTRY": "INDIA"
+  }
+}

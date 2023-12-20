@@ -1,0 +1,11 @@
+{
+"Failed": {
+"transaction_status": 0,
+"txn_id": "46436hdg-2022-09-16 11:20:14.691",
+"statusMessage": "You are not authorized to connect with this ip address:XXX.0.0.1",
+"statusCode": "1002",
+"ref_Id": "66e74ad6-7fc1-4365-b0ce-e3b1c7cbcad5",
+"response_timestamp": "2022-09-16 11:20:15.466",
+"request_timestamp": "2022-09-16 11:20:14.632"
+}
+}

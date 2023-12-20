@@ -1,0 +1,33 @@
+{
+  "code": 200,
+  "result": {
+    "Succeeded": {
+      "pan_Details": {
+        "transaction_status": 1,
+        "txn_id": "9078050f-b177-4a7ty14-91cb-8a2016f-2023-05-23 17:37:16.196",
+        "statusMessage": "Success",
+        "statusCode": "1",
+        "request_timestamp": "2023-05-23 17:37:16.194",
+        "response_timestamp": "2023-05-23 17:37:17.192",
+        "ref_Id": "c00f3be1-0245-4dde-9bab-005b7a7c06fb",
+        "data": {
+          "name": "NARESH AHIRWAR",
+          "number": "BXMPA9842C",
+          "type_of_holder": "Individual or Person",
+          "type_of_holder_code": "P",
+          "is_individual": "true",
+          "is_valid": "true",
+          "first_name": "NARESH",
+          "middle_name": "",
+          "last_name": "AHIRWAR",
+          "title": "Shri",
+          "pan_status": "VALID",
+          "pan_status_code": "E",
+          "last_updated_on": "26/04/2019",
+          "aadhaar_seeding_status": "Successful",
+          "aadhaar_seeding_status_code": "Y"
+        }
+      }
+    }
+  }
+}

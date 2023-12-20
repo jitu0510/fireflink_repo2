@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "result": {
+    "data": {
+      "pan_number": "CYNPD7222G"
+    },
+    "status_code": 200,
+    "success": true,
+    "message": "Success",
+    "message_code": "success"
+  }
+}

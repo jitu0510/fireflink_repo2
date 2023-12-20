@@ -1,0 +1,24 @@
+{
+    "code": 100,
+    "result": {
+        "data": {
+            "PAN": "BXMPA9*****",
+            "FIRST_NAME": "NAR*****",
+            "MIDDLE_NAME": "",
+            "LAST_NAME": "AHIR*****",
+            "AADHAR_NUM": "615209*****",
+            "EMAIL": "",
+            "DOB": "05-06-*****",
+            "GENDER": "male",
+            "IDENTITY_TYPE": "P",
+            "MOBILE_NO": "",
+            "ADDRESS_1": "HOUSE NO-48 *****",
+            "ADDRESS_2": "NAYAK *****",
+            "ADDRESS_3": "",
+            "PINCODE": "471***",
+            "CITY": "CHHATARPUR",
+            "STATE": "MADHYA PRADESH",
+            "COUNTRY": ""
+        }
+    }
+}
